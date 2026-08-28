@@ -1,2 +1,0 @@
-D:/flutter_projects/quiz_app/android/app/.cxx/debug/5e645l5i/armeabi-v7a/CMakeFiles/edit_cache.dir
-D:/flutter_projects/quiz_app/android/app/.cxx/debug/5e645l5i/armeabi-v7a/CMakeFiles/rebuild_cache.dir
